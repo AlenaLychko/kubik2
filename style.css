@@ -1,0 +1,12 @@
+:root{
+    --div-color:red;
+}
+
+.custom-element{
+    width: 350px;
+    height: 220px;
+    padding: 15px 10px 20px;
+    margin: 30px;
+    background-color: rgb(0, 128, 0);
+    border: dotted   var(--div-color);
+}
